@@ -1,0 +1,10 @@
+.container{
+  padding: 10px 15px;
+  cursor: pointer;
+  background-color: #e9777d;
+  border: none;
+  border-radius: 8px;
+  width: max-content;
+  color: white;
+  font-family: '__Nunito_Sans_2cf100';
+}
